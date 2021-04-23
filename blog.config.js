@@ -2,7 +2,7 @@ const BLOG = {
   title: 'CRAIGARY',
   author: 'Craig Hart',
   email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://zaihuame.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
